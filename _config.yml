@@ -4,7 +4,7 @@ email: me@ruichicoria.com
 description: > # this means to ignore newlines until "baseurl:"
   Full stack developer. Open source enthusiast.
   Avid learner. Lead software engineer at Sentilant.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://myposts.ruichicoria.com" # the base hostname & protocol for your site
 twitter_username: rchicoria
 github_username:  rchicoria
